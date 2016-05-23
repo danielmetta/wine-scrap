@@ -1,0 +1,35 @@
+{
+  "name": "wine-scrap",
+  "description": "Consulta dados do produto Wine",
+  "version": "1.0.2",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "wine",
+    "scrap",
+    "web scrap"
+  ],
+  "tags": [
+    "scrap",
+    "wine",
+    "web"
+  ],
+  "author": {
+    "name": "Daniel Metta",
+    "email": "info@danielmetta.com.br",
+    "homepage": "http://www.danielmetta.com.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmetta/wine-scrap/index.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "es6-promise": "^3.2.1",
+    "request": "^2.72.0"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "main": "index.js"
+}
